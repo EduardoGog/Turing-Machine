@@ -6,7 +6,7 @@ En este proyecto se desarrolla una simulación de una máquina de Turing diseña
 
 ## AFND
 
-![Diagrama del AFND](Turing.png)
+![Diagrama del AFND](/Turing.png)
 
 ## Ejecución del programa
 
